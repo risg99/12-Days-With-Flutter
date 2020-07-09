@@ -14,3 +14,14 @@
 ## [Day - 3](https://github.com/risg99/30DaysWithFlutter/tree/master/layout_examples)
   * Worked with widgets
   * Worked with layouts
+
+## [Day - 4](https://github.com/risg99/30DaysWithFlutter/tree/master/ui_trial)
+  * Installed Adobe_XD free version
+  * Created Basic SIGN-IN UI page using Adobe_XD and Wireframes
+  * Exported the UI to flutter application
+  
+## [Day - 5](https://github.com/risg99/30DaysWithFlutter/tree/master/counter_app_stateful)
+  * Developed Default State Counter Application from scratch
+  * Developed Stateful Counter Application
+  * Increment & Decrement Counter Values
+  
