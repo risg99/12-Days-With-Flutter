@@ -34,3 +34,7 @@
   * Created a drawer
   * Theme changed at runtime without using Bloc & controllers
   
+## [Day - 7](https://github.com/risg99/30DaysWithFlutter/tree/master/dice_rolling_app)
+* Created a single dice rolling application
+* Extended it to a two dice rolling application
+
