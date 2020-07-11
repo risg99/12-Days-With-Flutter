@@ -25,3 +25,12 @@
   * Developed Stateful Counter Application
   * Increment & Decrement Counter Values
   
+## [Day - 6](https://github.com/risg99/30DaysWithFlutter/tree/master/dynamic_themes)
+  [Part - A](https://github.com/risg99/30DaysWithFlutter/tree/master/dynamic_themes/bg_changer):
+  * Developed Background Changer OnPressButton
+  * Developed Button Color Changer OnPressButton
+  
+  [Part - B](https://github.com/risg99/30DaysWithFlutter/tree/master/dynamic_themes/dynamic_theming):
+  * Created a drawer
+  * Theme changed at runtime without using Bloc & controllers
+  
