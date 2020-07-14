@@ -38,3 +38,11 @@
 * Created a single dice rolling application
 * Extended it to a two dice rolling application
 
+## [Day - 8](https://github.com/risg99/30DaysWithFlutter/tree/master/tic_tac_toe)
+* Developed Tic-Tac-Toe Game Application - A two player game
+* Created scoreboard to maintain scores of players
+
+## [Day - 9](https://github.com/risg99/30DaysWithFlutter/tree/master/calculator_app)
+* Created a calculator application
+* Created basic operations that can be performed using the application
+* Application accepts decimal point numbers
