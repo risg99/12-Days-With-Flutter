@@ -56,6 +56,6 @@
 * Created a sign-up UI
 * Routed the sign-up page to welcome page
 
-## [Day - 12](https://github.com/risg99/30DaysWithFlutter/tree/master/scratch-and-win)
+## [Day - 12](https://github.com/risg99/30DaysWithFlutter/tree/master/scratch_and_win)
 * Developed a scratch-and-win application
 * Understood Scratch Card and its properties
