@@ -46,3 +46,12 @@
 * Created a calculator application
 * Created basic operations that can be performed using the application
 * Application accepts decimal point numbers
+
+## [Day - 10](https://github.com/risg99/30DaysWithFlutter/tree/master/shopping_list)
+* Developed home page for shopping list
+* Created GridView for the list
+* Enhanced UI using other flutter libraries
+
+## [Day - 11](https://github.com/risg99/30DaysWithFlutter/tree/master/friendly_chat)
+* Created a sign-up UI
+* Routed the sign-up page to welcome page
