@@ -1,4 +1,4 @@
-# 30DaysWithFlutter
+# 12-Days-With-Flutter
 
 ## [Day - 1](https://github.com/risg99/30DaysWithFlutter/tree/master/myapp)
   * Installation process completed
